@@ -1,0 +1,6 @@
+Kowalski,Jan,90120398765,Starszy programista,7000zł,C++ Python Java,prawojazdy kat. B
+Beacka,Beata,90090587654,Specjalista ds sprzedaży,4000zł,angielski rosyjski,telemarketing,prawojazdy kat. B
+Adamski,Adam,91120912345,Programista,5000zł,C# Java
+Nowak,Anna,92040598765,Młodszy programista,4000zł,Java
+Cezarski,Cezary,94080787654,Ekspert ds sprzedaży,6000zł,angielski niemiecki,telemarketing,prawojazdy kat. B
+Darecki,Dariusz,92020234458,Młodszy specjalista ds sprzedaży,2500zł,angielski,sprzedaż bezpośrednia
